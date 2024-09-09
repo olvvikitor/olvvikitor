@@ -7,10 +7,10 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=2CA5E0) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=2CA5E0) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2CA5E0)
- [![Typescript](https://img.shields.io/badge/typescript-%23404d59.svg?style=for-the-badge&logo=typescripr&logoColor=%2CA5E0)](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=2CA5E0)
- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%2CA5E0)
+![JavaScript](https://img.shields.io/badge/JavaScript-2CA5E0?style=for-the-badge&logo=javascript&logoColor=2CA5E0) 
+![NodeJS](https://img.shields.io/badge/node.js-2CA5E0?style=for-the-badge&logo=node.js&logoColor=2CA5E0) ![Express](https://img.shields.io/badge/express.js-%2CA5E0.svg?style=for-the-badge&logo=express&logoColor=%2CA5E0)
+ [![Typescript](https://img.shields.io/badge/typescript-%2CA5E0.svg?style=for-the-badge&logo=typescripr&logoColor=%2CA5E0)](https://img.shields.io/badge/TypeScript-2CA5E0?style=for-the-badge&logo=typescript&logoColor=2CA5E0)
+ ![Vue.js](https://img.shields.io/badge/vuejs-%2CA5E0.svg?style=for-the-badge&logo=vuedotjs&logoColor=%2CA5E0)
 
 
   
