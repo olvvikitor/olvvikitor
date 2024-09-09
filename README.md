@@ -1,6 +1,3 @@
-Aqui está a versão atualizada do seu perfil, incluindo Vue.js e TypeScript:
-
----
 
 ## Olv.vikitor
 
