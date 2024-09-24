@@ -1,4 +1,4 @@
-## Olv.vikitor
+## João Victor
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/victor-oliveira-969a15210/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/Olv.vikitor/)
