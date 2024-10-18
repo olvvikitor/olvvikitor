@@ -9,7 +9,7 @@
 
 <p align="center">
   <a
-    href="https://github.com/ryo-ma/olvvikitor"
+    href="https://github.com/ryo-ma/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
