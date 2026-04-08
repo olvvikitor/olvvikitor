@@ -22,7 +22,7 @@ Desenvolvedor com experiência em **backend e frontend**, focado em criar sistem
 
 Em transição para o perfil **Fullstack**, consolidando experiência com Vue.js no frontend enquanto aprofundo arquitetura de APIs no backend.
 
-- 🔭 Trabalhando em projetos com **NestJS + Prisma + PostgreSQL + Vue**
+- 🔭 Trabalhando em projetos com **NestJS + Prisma + PostgreSQL + React**
 - 🌱 Evoluindo em **testes automatizados**, **arquitetura limpa** e **AWS S3**
 - 🤝 Aberto a colaborações, feedbacks e novas oportunidades
 - ⚡ Comprometido com **LGPD**, segurança e qualidade de software
@@ -41,7 +41,6 @@ Em transição para o perfil **Fullstack**, consolidando experiência com Vue.js
 
 **Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
